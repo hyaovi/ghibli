@@ -5,6 +5,9 @@
 *.pyo
 env/
 env*
+venv/
+venv*
+win_venv
 dist/
 build/
 *.egg
